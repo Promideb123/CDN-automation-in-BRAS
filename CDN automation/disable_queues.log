@@ -1,0 +1,14 @@
+2026-02-09 22:04:38,091 - INFO - Processing Router: 10.20.231.9
+2026-02-09 22:04:38,205 - INFO - Connected (version 2.0, client ROSSSH)
+2026-02-09 22:04:38,708 - INFO - Authentication (password) successful!
+2026-02-09 22:04:38,708 - INFO - Connected to 10.20.231.9
+2026-02-09 22:04:38,709 - INFO - Disabling queue with comment 'GGC_500'...
+2026-02-09 22:04:38,924 - INFO - Disabling queue with comment 'FNA_500'...
+2026-02-09 22:04:39,163 - INFO - Finished processing 10.20.231.9
+2026-02-09 22:04:39,164 - INFO - Processing Router: 10.20.231.121
+2026-02-09 22:04:39,293 - INFO - Connected (version 2.0, client ROSSSH)
+2026-02-09 22:04:39,866 - INFO - Authentication (password) successful!
+2026-02-09 22:04:39,867 - INFO - Connected to 10.20.231.121
+2026-02-09 22:04:39,867 - INFO - Disabling queue with comment 'GGC_500'...
+2026-02-09 22:04:40,079 - INFO - Disabling queue with comment 'FNA_500'...
+2026-02-09 22:04:40,448 - INFO - Finished processing 10.20.231.121

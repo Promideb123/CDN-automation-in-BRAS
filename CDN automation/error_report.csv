@@ -1,0 +1,27 @@
+IP,Error
+10.20.231.10,GGC Interface not found
+10.20.231.10,FNA Interface not found
+10.20.231.184,GGC Interface not found
+10.20.231.184,FNA Interface not found
+10.20.231.186,GGC Interface not found
+10.20.231.186,FNA Interface not found
+10.20.231.248,Connection Failed
+10.20.231.24,GGC Interface not found
+10.20.231.24,FNA Interface not found
+10.20.231.1,GGC Queue: Failed to create simple queue 'GGC-500'. Output: item referred by 'place-before' does not exist (11) (/queue/simple/add; line 1)
+10.20.231.1,FNA Queue: Failed to create simple queue 'FNA-500'. Output: item referred by 'place-before' does not exist (11) (/queue/simple/add; line 1)
+10.20.231.205,Connection Failed
+10.20.231.74,GGC Queue: Failed to create simple queue 'GGC-500'. Output: item referred by 'place-before' does not exist (11) (/queue/simple/add; line 1)
+10.20.231.74,FNA Queue: Failed to create simple queue 'FNA-500'. Output: item referred by 'place-before' does not exist (11) (/queue/simple/add; line 1)
+10.20.231.2,Connection Failed
+10.20.231.200,Connection Failed
+10.20.231.208,Connection Failed
+10.20.231.227,GGC Queue: Failed to create simple queue 'GGC-500'. Output: item referred by 'place-before' does not exist (11)
+10.20.231.227,FNA Queue: Failed to create simple queue 'FNA-500'. Output: item referred by 'place-before' does not exist (11)
+10.20.231.229,GGC Interface not found
+10.20.231.229,FNA Interface not found
+10.20.231.237,GGC Interface not found
+10.20.231.237,FNA Interface not found
+10.20.231.240,Connection Failed
+,Connection Failed
+10.20.231.245,Connection Failed
